@@ -32,14 +32,14 @@ namespace assignment_17
         //    }
         //}
 
-        public static void ProccessEmp(Employee employee)
-        {
-            if (employee != null)
-            {
-                employee.MyFunc01();
-                employee.MyFunc02();
-            }
-        }
+        //public static void ProccessEmp(Employee employee)
+        //{
+        //    if (employee != null)
+        //    {
+        //        employee.MyFunc01();
+        //        employee.MyFunc02();
+        //    }
+        //}
         static void Main(string[] args)
         {
             #region Overloading
